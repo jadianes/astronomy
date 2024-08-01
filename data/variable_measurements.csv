@@ -1,0 +1,9 @@
+name	date	time	magnitude	comp1_magnitude	comp2_magnitude	instrument
+beta lyr	07/06/2024	23:00	3.75	3.2	5.4	apm 10x50
+beta lyr	08/06/2024	23:00	3.5	3.2	4.4	apm 10x50
+r lyr	08/06/2024	23:00	4	3.2	4.4	apm 10x50
+delta cep	22/7/2024	23:00	3.4	3.35	4.19	apm 10x50
+gamma cas	26/7/2024	22:46	2.3	2.2	2.6	apm 10x50
+delta cep	26/7/2024	22:50	3.52	3.35	4.19	apm 10x50
+gamma cas	30/7/2024	22:05	2	1.25	2.6	apm 10x50
+delta cep	30/7/2024	22:15	4.2	3.35	4.19	apm 10x50
